@@ -47,6 +47,20 @@ def read_stop_words(file):
 		cnt += 1
 	return stop_words
 
+def count_word_in_reivew(review):
+	word_list = set([])
+	for sentence in review:
+		words = sentence.split(" ")
+		for word in words:
+			if word not in word_list:
+				word_list.add(word)
+	# for every review
+	for word in word_list:
+		if word not in total_freq:
+			total_freq[word] = 1
+		else:
+			total_freq[word] += 1
+
 # convert all the words into lower cases
 # removing punctuations, stop words
 def parse_to_sentence(reviews):
@@ -68,30 +82,49 @@ def parse_to_sentence(reviews):
 					arr.remove(word)
 			curr.append(tmp)
 		res.append(curr)
+
+		count_word_in_reivew(curr)
+
 	return res
-	
+
+# remove terms occurinng in less than 10 reviews
+def filter_words(reviews):
+	res = []
+	for review in reviews:
+		curr = []
+		for sentence in reviews:
+			words = sentence.split(" ")
+			for word in words:
+				if word not in total_freq or total_freq[word] < 10:
+					words.remove(word)
+			curr.append(''.join(words))
+		res.append(curr)
+	return res
+
 stop_words = read_stop_words('./stopwords.txt')
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 dir = './Aspects/'
+total_freq = {}		# words with occurrences in reviews
 
-fp = open('words.txt','a+')
+# fp = open('words.txt','a+')
+fp2 = open('vocab.txt', 'w')
+cnt = 0
 for f_name in os.listdir(dir):
 	reviews, ratings = load_file(dir + f_name)
 	processed_res = parse_to_sentence(reviews)
-	total, num = 0, 0
-	for sentences in processed_res:
-		total += 1
-		for sentence in sentences:
-			num += 1
-			fp.write(sentence)
-		fp.write('\n')
+# print(total_freq)
 
-# remove terms occurinng inn less than 10 reviews
-def check_freq(arr):
-	word_dict = {}
-	for sentence in arr:
-		for word in sentence:
-			word_dict[word] = word_dict.get(word) + 1
-			
-# build_vocab(processed_res)
+# write total word occurrence
+for word in total_freq:
+	fp2.write(str(word) + ' ' + str(total_freq[word]) + '\n')
+
+fp3 = open('final_reivews.txt', 'a+')
+for f_name in os.listdir(dir):
+	reviews, ratings = load_file(dir + f_name)
+	final_reviews = filter_words(reviews)
+	for review in final_reviews:
+		for sentence in review:
+			fp3.write(sentence + '\n')
+	fp3.write('\n' + '\n' + '\n')
+		
 
