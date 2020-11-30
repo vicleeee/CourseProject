@@ -5,5 +5,7 @@ Please fork this repository and paste the github link of your fork on Microsoft 
 Stage 1 By Nov 29
 test.py
 
+First we 
+Then we  convert all the words into lower cases and remove punctuations and stop words.
 In vocab.txt we write vocabulary appearance based on reviews. If a word appears in several times in the same review, it would only be counted as once. We then filtered out words that have less than ten occurences.
 
