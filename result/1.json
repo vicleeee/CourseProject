@@ -1,0 +1,799 @@
+{
+    "Reviews":[
+       {
+          "Ratings":{
+             "Cleanliness":"4",
+             "Overall":"2.0",
+             "Value":"2",
+             "Service":"2",
+             "Location":"3"
+          },
+          "AuthorLocation":"Paris, France",
+          "Title":"\u201cVery unfriendly reception\u201d",
+          "Author":"acrobateip",
+          "ReviewID":"UR137494077",
+          "Content":"stayed iberia really liked place nice room bed like rock otherwise room fine walked nice restaurant street really close barajas convenient shuttle",
+          "Date":"August 17, 2012"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"4",
+             "Overall":"4.0",
+             "Value":"5",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"5"
+          },
+          "AuthorLocation":"Leicester, United Kingdom",
+          "Title":"\u201cVery impressive! Plus a free shuttle...\u201d",
+          "Author":"Geem1985",
+          "ReviewID":"UR135869253",
+          "Content":"stayed hotel situated close airport flight awkward time hotel provides free shuttle bus leaves various times depending time day went check staff made sure bus driver waited completed checkout process helped us take luggage minibus hotel impressive large entrance numerous conference rooms lovely bar restaurant rooms looked elegant although walls quite thin unfortunately people next room tv quite loud quite late didn\u2019t bother complaining reception imagine complained would sorted us numerous restaurants area metro stop around 15mins walking distance would recommend hotel need accommodation close airport",
+          "Date":"July 31, 2012"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"4.0",
+             "Value":"5",
+             "Sleep Quality":"5",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"Ulm, Germany",
+          "Title":"\u201cGreat Service and Support\u201d",
+          "Author":"Superscricciolina",
+          "ReviewID":"UR134973389",
+          "Content":"located close airport free shuttle every 15 minutes station short visit madrid also business trip waiting flight day clean comfortable room modern bathroom free wifi great buffet breakfast nice people everything need",
+          "Date":"July 21, 2012"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"4",
+             "Overall":"4.0",
+             "Value":"4",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"3"
+          },
+          "AuthorLocation":"UK",
+          "Title":"\u201cGood clean & functional hotel close to airport\u201d",
+          "Author":"ZT100",
+          "ReviewID":"UR133735325",
+          "Content":"hotel best location exploring madrid good airport location near centre town barajas bars restaurants etc spacious hotel good clean rooms decent size find staff helpful facilities good including barrestaurant free shuttle bus airport probably need call hotel already airport number hotel bus stop outside arrivals good hotel good service exploring madrid city",
+          "Date":"July 8, 2012"
+       },
+       {
+          "Ratings":{
+             "Service":"3",
+             "Cleanliness":"4",
+             "Overall":"3.0",
+             "Value":"3",
+             "Sleep Quality":"3",
+             "Rooms":"3",
+             "Location":"3"
+          },
+          "AuthorLocation":"Miami, Florida",
+          "Title":"\u201cGood Airport Hotel\u201d",
+          "Author":"miamiajp",
+          "ReviewID":"UR131750978",
+          "Content":"spend one night barajas make connection bad bet totally outdated room chipped walls ac terrible however 5 min airport id find alternative take",
+          "Date":"June 11, 2012"
+       },
+       {
+          "Ratings":{
+             "Service":"2",
+             "Cleanliness":"4",
+             "Overall":"2.0",
+             "Value":"3",
+             "Sleep Quality":"3",
+             "Rooms":"2",
+             "Location":"3"
+          },
+          "AuthorLocation":"U.K.",
+          "Title":"\u201cJust about ok if you need to stay near Madrid airport\u201d",
+          "Author":"astronomer-at-large",
+          "ReviewID":"UR125098941",
+          "Content":"pros rooms spacious clean bed comfy high quality linen deep tub bathroom full wall windows bright airy room good parking right front hotel entrance free airport shuttle runs every 10 minutes cons outdoor pool empty repair significant noise plumbing adjacent rooms overall pretty good hotel youre looking something close airport",
+          "Date":"February 23, 2012"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"3",
+             "Overall":"3.0",
+             "Value":"3",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"2"
+          },
+          "AuthorLocation":"London, United Kingdom",
+          "Title":"\u201cBack to the 70's\u201d",
+          "Author":"Miran_Ali",
+          "ReviewID":"UR123233765",
+          "Content":"getting hotel take free bus provided hotel bus provided hilton nicer driver better turned check fine room massive perfectly comfortable whole place 70s look feel dinner buffet one worst meals ever europe food selection poor price charge buffet worth la carte selection also worth considering eat airport",
+          "Date":"January 17, 2012"
+       },
+       {
+          "Ratings":{
+             "Service":"2",
+             "Cleanliness":"4",
+             "Overall":"3.0",
+             "Value":"3",
+             "Sleep Quality":"5",
+             "Rooms":"4",
+             "Location":"4"
+          },
+          "AuthorLocation":"UK",
+          "Title":"\u201cOK for airport stopover\u201d",
+          "Author":"Ursosarctos",
+          "ReviewID":"UR122346389",
+          "Content":"hotel airport business stranded passengers part building good condition room though small side quite ok public areas welcoming evening dinner buffet poor rate would billed menu price little choice main courses dried standard would expected melia despite many staff service dont eat evening meal across road almost certainly cheaper welcoming buffet breakfast hand brilliant although gather reviews price billed shuttle worked ok nowhere sit inside waiting runs schedule might difficult",
+          "Date":"January 1, 2012"
+       },
+       {
+          "Ratings":{
+             "Service":"2",
+             "Cleanliness":"4",
+             "Overall":"3.0",
+             "Value":"3",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"3"
+          },
+          "AuthorLocation":"London",
+          "Title":"\u201cFine Stay Near Barajas\u201d",
+          "Author":"UKbanker33",
+          "ReviewID":"UR122226167",
+          "Content":"arrived delayed flight near midnight grabbed problem large room elegant although clearly last needs refreshing good overnight stay near airport get good rate close public transport stranded need go madrid town ok everything would expect spanish suburb service formal bit cold breakfast subway madrid good coffee time",
+          "Date":"December 29, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"4",
+             "Overall":"4.0",
+             "Value":"4",
+             "Sleep Quality":"5",
+             "Rooms":"4",
+             "Location":"4"
+          },
+          "AuthorLocation":"Stockholm, Sweden",
+          "Title":"\u201cGood value for the money\u201d",
+          "Author":"Alessandr078",
+          "ReviewID":"UR121421902",
+          "Content":"good hotel nice service airport room huge almost mini apartment quite cheap also close metro takes center service good breakfast lunch excellent",
+          "Date":"December 5, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"3",
+             "Cleanliness":"1",
+             "Overall":"1.0",
+             "Value":"1",
+             "Sleep Quality":"3",
+             "Rooms":"1",
+             "Location":"3"
+          },
+          "AuthorLocation":"Brighton, United Kingdom",
+          "Title":"\u201cWorse place I have been in a while\u201d",
+          "Author":"CletoCleto",
+          "ReviewID":"UR121075346",
+          "Content":"old food terrible friendly staff area nice either many nicer hotel avoid like rush",
+          "Date":"November 27, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"3",
+             "Overall":"3.0",
+             "Value":"4",
+             "Sleep Quality":"2",
+             "Rooms":"3",
+             "Location":"4"
+          },
+          "AuthorLocation":"London, United Kingdom",
+          "Title":"\u201cGood airport location\u201d",
+          "Author":"dklon",
+          "ReviewID":"UR120523863",
+          "Content":"hotel located far barajas airport shuttle bus runs airport hotel found walls room staying thin think could tv next door conversation couple early flight didnt best nights sleep reception staff good ate small restaurant across road cheap tasty",
+          "Date":"November 13, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"4.0",
+             "Value":"5",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"4"
+          },
+          "AuthorLocation":"Dallas, Texas",
+          "Title":"\u201cGreat Hotel Close to the Airport\u201d",
+          "Author":"07LizzyB",
+          "ReviewID":"UR120316159",
+          "Content":"stayed overnight husband last night europe large suite roomy comfortable found traditional decor quaint european bathroom huge separate tub shower hotel airport shuttle convenient metro stop close hotel easy access would definitely stay",
+          "Date":"November 8, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"4",
+             "Overall":"3.0",
+             "Value":"4",
+             "Sleep Quality":"3",
+             "Rooms":"3",
+             "Location":"4"
+          },
+          "AuthorLocation":"Shanghai, China",
+          "Title":"\u201cConvenient beside airport but basic rooms\u201d",
+          "Author":"Luca_Luo",
+          "ReviewID":"UR120198012",
+          "Content":"hotel madrid barajas airport offered 24 hours free shuttle bus hotel airport around 15 minutes shuttle bus makes easy shuttle bus stops every terminal sign hotel shuttle stop driver see car coming melia barajas car pass without stopping dont know whether hotel 3 star 4 star fairly speaking room basic old style decoration room makes like hotel television small carpet dark bathroom floor clear theres free network available internet access additional charge also parking cost 16 euro per day important sound proof room terrible clearly hear people talking outside door even heard water neighbours bathroom also heard making phone forget bring ear plug choose stay hotel",
+          "Date":"November 5, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"5",
+             "Overall":"4.0",
+             "Value":"4",
+             "Sleep Quality":"5",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"Israel",
+          "Title":"\u201cgood option for an overnight near Barajas airport\u201d",
+          "Author":"nad66",
+          "ReviewID":"UR120162900",
+          "Content":"stay overnight madrid barajas airport way arrived pm called hotel pm shuttle arrived 15 minutes 1030 already room room rate checked asked leave early morning eat breakfast restaurant room chose restaurant got room looked bill saw add 15 euros breakfast went told given better room ordered breakfast strange didnt ask change rooms internet costs 12 euros 24 hours want eat something eat hotel food expensive beer sandwich costs 2025 euros plan stay night eat dinner breakfast use internet come 50 expected spend overall good hotel huge rooms clean close airport good shuttle service airport",
+          "Date":"November 4, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"5",
+             "Overall":"4.0",
+             "Value":"4",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"5"
+          },
+          "AuthorLocation":"Athens, Greece",
+          "Title":"\u201cVery nice for a 1-night sleep\u201d",
+          "Author":"YanisM",
+          "ReviewID":"UR119127925",
+          "Content":"hotel much business airline crew people found also good hotel private tourist located airport hear room clean provides bus connection airport approximately 15 min walk metro station pick line 8 30 min downtown internet room available common area next coffee happy ate outside hotel comments dinning inside hotel thanks",
+          "Date":"October 10, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Sleep Quality":"5",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"Grimsby, United Kingdom",
+          "Title":"\u201cExcellent surprise paid for by airline\u201d",
+          "Author":"Moorbius",
+          "ReviewID":"UR118354185",
+          "Content":"got caught crazy travel experience dec 2010 got airport london closed 3 days got last train got snow closed area got got one last seats gran join tall ship trust plane got far madrid airport airport baggage staff went strike apparently spanish took airport nearly airport staff go sick apparently needless say offered put overnight free took offer hotel simply fantastic mean large rooms superb bathroom huge foyer great food brilliant staff great nights sleep king bed free basic sleeping wear toiletries staff helped free early morning transfer get available flight europe wide highly recommend",
+          "Date":"September 20, 2011"
+       },
+       {
+          "Ratings":{
+             "Cleanliness":"5",
+             "Sleep Quality":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Service":"5"
+          },
+          "AuthorLocation":"Pittsburgh, Pennsylvania",
+          "Title":"\u201cwonderful hotel, great buffets, kind service, higly recommend!\u201d",
+          "Author":"Debbybcn",
+          "ReviewID":"UR115995927",
+          "Content":"hotel situated close madrid barajas airport partly spending two days attending meetings conference staying hotel free shuttle bus airport took taxi arriving madrid bus driver informed us rest group waiting would another 2025 minutes long wait temperature room stayed comfortable spacious found bathroom well fitted decor somewhat dated room clean could get either wired network connection wifi work disappointing although colleagues rooms lobby area spacious lifts small dark however wide open easily use instead breakfast included room rate dining room large airy buffet breakfast good selection hot cold items including let know definitely spain rather anywhere europe staff polite friendly checkin checkout reasonably quick efficient used one major conference rooms two days facilities plenty space excellent screen power points laptops buffet lunch excellent great selection high quality hot cold items overall hotel mix business leisure guests families slightly business guests meant lobby area quite busy large numbers tour group guests arriving departing",
+          "Date":"July 29, 2011"
+       },
+       {
+          "Ratings":{
+             "Cleanliness":"5",
+             "Sleep Quality":"5",
+             "Overall":"4.0",
+             "Service":"4"
+          },
+          "AuthorLocation":"Johannesburg, South Africa",
+          "Title":"\u201cGreat Rooms!\u201d",
+          "Author":"jeff1996",
+          "ReviewID":"UR115640794",
+          "Content":"free airport shuttle 12 walk metro station best way get around madrid room adequate fresh furnishings bathrooms looked old nice size function minibar room one complaint could hear tv next room night expecting bit melia",
+          "Date":"July 22, 2011"
+       },
+       {
+          "Ratings":{
+             "Cleanliness":"5",
+             "Sleep Quality":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Service":"5"
+          },
+          "AuthorLocation":"London, United Kingdom",
+          "Title":"\u201cperfect for our needs\u201d",
+          "Author":"spiralisis",
+          "ReviewID":"UR112646074",
+          "Content":"wife stayed airport hotel twice within 2 weeks since flights madrids international airport barajas stayed hotel became chain remembered located near entrance airport free shuttle bus airport big help us first stay great upgraded superior room without even asking good joined frequent stay program arrived us 2 1 breakfasts saved us 18 treated like reception desk room large clean bathroom marble 2 sinks bidet bath tub separate shower breakfast large tasty buffet many choices second visit like different hotel room size stay paid 25 superior room reception personnel couldnt cared less back even smiles offered 2 1 breakfast option room several tear strip floor visit ate dinner hotels restaurant hardly ever poor excuse meal paid dinner buffet within half hour food run nothing replenished next 30 minutes food hot everything nonetheless left hungry feeling taken advantage looks faces patrons night many felt way positive thing 6 pm room service delivered 2 small bottles red wine dried fruits assortment nuts compliments management",
+          "Date":"June 10, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Sleep Quality":"4",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"Port Saint Lucie, Florida",
+          "Title":"\u201cHad a great location, met all our needs, and was fairly priced.\u201d",
+          "Author":"ship-11",
+          "ReviewID":"UR106746863",
+          "Content":"wife stayed three nights room nice spacious clean mattress firm pillows long two provided free shuttle hotel airport efficient location safe neighborhood walk metro station barajas took 10 minutes free internet service available staff helpful find restaurant prices high small convenience store within 5 minutes situation resolved would stay would recommend friends",
+          "Date":"May 3, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Sleep Quality":"4",
+             "Rooms":"5",
+             "Location":"3"
+          },
+          "AuthorLocation":"kent",
+          "Title":"\u201cFab hotel, close to airport but a fair way from town center\u201d",
+          "Author":"yossmitesam",
+          "ReviewID":"UR103315395",
+          "Content":"stayed 4 nights melia barajas booked tickets see easy getting tickets bernabeu free shuttle bus runs regularly airport hotel back easy took 10mins check smooth friendly good english spoken lots advice tips map first trip madrid eat hotel comment food restaurants bars within min walk hotel metro stop walk underground incredibly easy cheap use 1 euro gets anywhere bought block euros 4 days get main town area took hotel big deal day stayed madrid fantastic city lots see 2 english walking tours visited 6pm gardens parks good food drink loads going small hours recommended",
+          "Date":"April 8, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"4",
+             "Overall":"4.0",
+             "Value":"3",
+             "Sleep Quality":"4",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"New York City, New York",
+          "Title":"\u201cjust don't use the phone...\u201d",
+          "Author":"Mary-Isa",
+          "ReviewID":"UR95425401",
+          "Content":"stayed flight cancelled airline chose hotel found quite convenient free running every 15 minutes hotel airport rooms small comfortable liked beds shower appropriate water heating fine washed clothes evening left radiator dry 5am buffet dinner ok couldnt taste breakfast left early kind enough leave coffee croissant bar leaving early",
+          "Date":"February 3, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"3",
+             "Cleanliness":"1",
+             "Overall":"2.0",
+             "Value":"1",
+             "Sleep Quality":"5",
+             "Rooms":"2",
+             "Location":"1"
+          },
+          "AuthorLocation":"Valencia, Spain",
+          "Title":"\u201cToo dusty and old\u201d",
+          "Author":"JohannaGuerrero",
+          "ReviewID":"UR92116504",
+          "Content":"opinion cleaning important thing hotel especially talking quite expensive four star hotel like room accomodated dusty wasnt cleaned months wall hair bidet top took bottle water minibar already opened filled water tap well understand fault previous guest checked minibar say something good food restaurant really delicious",
+          "Date":"January 7, 2011"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Sleep Quality":"5",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"Fort Myers Beach, Florida",
+          "Title":"\u201cMagnificent Time in a Bottle\u201d",
+          "Author":"McGunn",
+          "ReviewID":"UR86794213",
+          "Content":"drove madrid arrived night without reservation able get large room family 5 room right next door friendly service front desk comfortable nicely decorated loved large bathroom breakfast buffet bit pricey nothing special service good perfect place stay easy airport access",
+          "Date":"November 11, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"3",
+             "Cleanliness":"4",
+             "Overall":"3.0",
+             "Value":"1",
+             "Sleep Quality":"3",
+             "Rooms":"4",
+             "Location":"1"
+          },
+          "AuthorLocation":"Granbury",
+          "Title":"\u201cFood was very expensive.\u201d",
+          "Author":"GranburyTexaslady",
+          "ReviewID":"UR85654474",
+          "Content":"found hotel nice however exercise room also information prices food non waiter told us food included price yet end dinner head waiter approached us bill buffet could even eat much bill euros 70 us money problem communication staff limited sure ask room including meals least ask prices food budget free shuttle airport nice hotels madrid free shuttle airport stay somewhere downtown enjoy city easily",
+          "Date":"November 1, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"2",
+             "Cleanliness":"4",
+             "Overall":"2.0",
+             "Value":"2",
+             "Sleep Quality":"1",
+             "Rooms":"1",
+             "Location":"4"
+          },
+          "AuthorLocation":"Vienna",
+          "Title":"\u201cGreat hotel....20 years ago!\u201d",
+          "Author":"luru",
+          "ReviewID":"UR81083082",
+          "Content":"sure melia barajas used great hotel years ago airport shuttle free charge really nice unfortunately completely full wait 12 hour finally check room nice furniture everything old multiple big holes wall holes sheets pillows walls full stains marks shower worst part mold white turned black walls thin could hear neighbours entering room around 3 nice ive stayed better hostels melia barajas definitely 4 standard simply expensive offers",
+          "Date":"September 26, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"1",
+             "Cleanliness":"4",
+             "Overall":"3.0",
+             "Value":"2",
+             "Sleep Quality":"3",
+             "Rooms":"4",
+             "Location":"4"
+          },
+          "AuthorLocation":"Gran Canaria, Spain",
+          "Title":"\u201cNot too bad, but pricey\u201d",
+          "Author":"joabla",
+          "ReviewID":"UR77577034",
+          "Content":"hotel 4 quality slightly less probably 3 overall bad rooms spacious relatively new staff quite lousy seems melia sol tryp hotels breakfast simply terrible considering supposed 4 price around 20 euros",
+          "Date":"August 30, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"4.0",
+             "Value":"4",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"2"
+          },
+          "AuthorLocation":"Chicago, Illinois",
+          "Title":"\u201cGood for an overnight layover. Free 24-hour airport shuttle.\u201d",
+          "Author":"pickytraveler515",
+          "ReviewID":"UR75173480",
+          "Content":"staff friendly helpful hotel close downtown madrid youll change metro lines least twice get downtown watch pickpockets trains stayed one night catch early flight next morning took metro downtown staff helped us find station figure lines needed take airport shuttle convenient quickly morning ready early wouldnt pick hotel long visit madrid works quick stop easy airport access rooms bathrooms large nice",
+          "Date":"August 14, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"4.0",
+             "Value":"4",
+             "Sleep Quality":"5",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"St. Louis, MO",
+          "Title":"\u201cBeautiful room. Great Breakfast. Allow time for shuttle to airport.\u201d",
+          "Author":"Momma_J_StL",
+          "ReviewID":"UR75147612",
+          "Content":"chose hotel last night trip spain due free shuttle airport room large extra area desk would excellent hotel business large bathroom tub walkin showers outside hotel bit run needs new inside lovely able walk short distance area lots eating options dinner pool looked nice got late enjoy buffet huge variety food included price room allowed first shuttle arrived flight staff second shuttle us airport needed find another shuttle get correct terminal sure melia shuttle drops one location walked around terminal wrong place would nice melia shuttle would explained luckily time get lost take long shuttle terminal 4",
+          "Date":"August 14, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Sleep Quality":"5",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"Haddonfield, NJ",
+          "Title":"\u201cPerfect airport hotel\u201d",
+          "Author":"DDMHaddonfield_NJ",
+          "ReviewID":"UR74164440",
+          "Content":"stayed melia barajas night returning home us staying tourist class hotels felt like big splurge though price reasonable room large bathroom two sinks toilet bidet shower tubshower air conditioning worked well even pillow menu several different types pillows really surprised five minutes ordering pillow hotel employee arrived door reason hotels long sausage shaped pillow glad regular one hotel located ten minutes barajas metro stop turn right keep walking see unlike airport hotels barajas appears section madrid walked convenience store told steak restaurant couple blocks away good bar comfortable dinner small breakfast reserve breakfast included package regret missed spanish team stayed previous two nights world cup",
+          "Date":"August 7, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"3",
+             "Overall":"3.0",
+             "Value":"3",
+             "Sleep Quality":"3",
+             "Rooms":"3",
+             "Location":"4"
+          },
+          "AuthorLocation":"Munich, Germany",
+          "Title":"\u201cAcceptable, nice garden with big Swimming Pool\u201d",
+          "Author":"MiguelReis",
+          "ReviewID":"UR70740752",
+          "Content":"good less budget type hotels old school hotel best sort clean rooms amazing spacious staff friendly need",
+          "Date":"July 13, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"4",
+             "Overall":"5.0",
+             "Value":"5",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"5"
+          },
+          "AuthorLocation":"Santo Domingo, Dominican Republic",
+          "Title":"\u201cGreat hotel with reasonable rates, spacious and comfortable room\u201d",
+          "Author":"maggieferrua",
+          "ReviewID":"UR64946893",
+          "Content":"husband spent last night spain may 2010 flying next day found perfect place shuttles airport large quiet cool comfortable well appointed rooms great price included breakfast originally considered airport hilton places stayed spain great hotel want close airport",
+          "Date":"May 21, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Sleep Quality":"5",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"Baltimore",
+          "Title":"\u201cGreat Hotel\u201d",
+          "Author":"Europrob",
+          "ReviewID":"UR63037853",
+          "Content":"stayed hotel 7 nights april good things say room spacious clean room well staff helpful truly hospitable without breakfast buffet lavish something every taste spanish pastries really great hotel 5 minutes airport frequent shuttle service metro blocks away stay extremely pleasant complaints",
+          "Date":"May 2, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"4",
+             "Cleanliness":"3",
+             "Overall":"4.0",
+             "Value":"4",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"4"
+          },
+          "AuthorLocation":"UK",
+          "Title":"\u201cImpressive\u201d",
+          "Author":"unspecified",
+          "ReviewID":"UR62017389",
+          "Content":"quite standard review since ended hotel stop madrid due flight one standard hotels near airport doesnt stop impressed hotel room looked bit nevertheless grand spacious clean bathroom fine bed gave comfortable nights sleep rather idea single pillow free wifi around hotel high quality welcome food restaurant despite buffet breakfast lunch dinner exceptionally high quality service staff despite difficult circumstances working town barajas fairly youre barajas metro station get centre madrid within 30 minutes bus airport takes 10 minutes",
+          "Date":"April 20, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"4",
+             "Overall":"4.0",
+             "Value":"4",
+             "Sleep Quality":"4",
+             "Rooms":"4",
+             "Location":"4"
+          },
+          "AuthorLocation":"Rome, Italy",
+          "Title":"\u201cGreat hotel by the Barajas Airport\u201d",
+          "Author":"myosotis",
+          "ReviewID":"UR60061772",
+          "Content":"spent one night hotel highly recommend shuttle service airport quick efficient staff reception nice professional room service great salad hotel clean nicely furnished room new clean quiet comfortable bed free internet bathroom large clean want get dinner breakfast plenty options around hotel town barajas id highly recommend place need stay airport",
+          "Date":"April 1, 2010"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Location":"3",
+             "Rooms":"5"
+          },
+          "AuthorLocation":"",
+          "Title":"\u201cThe best place to stay near the Madrid airport\u201d",
+          "Author":"bdjwc",
+          "ReviewID":"UR29553781",
+          "Content":"hotel perfect location close airport wait 510 minutes shuttle arrive airport upon arrival room clean quiet comfortable addition metro station short 5 minute walk",
+          "Date":"May 7, 2009"
+       },
+       {
+          "Ratings":{
+             "Cleanliness":"3",
+             "Check in / front desk":"1",
+             "Overall":"1.0",
+             "Rooms":"2",
+             "Value":"1"
+          },
+          "AuthorLocation":"Oklahoma",
+          "Title":"\u201cWould not stay again - ever\u201d",
+          "Author":"go-okay",
+          "ReviewID":"UR19540772",
+          "Content":"like others iberia bumped flight 5min shuttle bus ride airport nearer go round far better expecting clean large rooms everything id expect wouldnt stayed million years im looking 4star hotels near airports business similar would fine breakfast large buffet english breakfast looked pretty nasty made cooked ham wanted english breakfast id stayed home good cakes bread cereal juices nice dining room staff helpful could hope 4am doesnt feel like youre airport hotel surrounding area looks like madrid suburb didnt time venture",
+          "Date":"August 30, 2008"
+       },
+       {
+          "Ratings":{
+             "Service":"3",
+             "Cleanliness":"5",
+             "Business service (e.g., internet access)":"4",
+             "Check in / front desk":"5",
+             "Overall":"4.0",
+             "Value":"4",
+             "Rooms":"5",
+             "Location":"4"
+          },
+          "AuthorLocation":"Honolulu, Hawaii",
+          "Title":"\u201ccomfortable\u201d",
+          "Author":"poidog7",
+          "ReviewID":"UR17778685",
+          "Content":"comfortable hotel excellent bed soft hard great pillows room elegant use marble tiles bathroom separate tub shower stall bathroom free wireless lobby well room first floor ethernet jack room didnt work well charge use ethernet jack arrived late option eating dinner buffet good salads cooked fish 32 euros bottle wine bottle water included shuttle bus service excellent called hotel make sure shuttle bus problem getting even late evening arrived promptly shuttle airport morning right time seems run every 30 minutes stayed 2 nights satisfied except buffet options eating residential neighborhood surrounding hotel nothing special front desk helpful efficient",
+          "Date":"July 11, 2008"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Business service (e.g., internet access)":"1",
+             "Check in / front desk":"5",
+             "Overall":"4.0",
+             "Value":"3",
+             "Rooms":"5",
+             "Location":"4"
+          },
+          "AuthorLocation":"Reston, Virginia",
+          "Title":"\u201cOK for a short stay when leaving through the airport\u201d",
+          "Author":"TwoLaneRoads",
+          "ReviewID":"UR15160771",
+          "Content":"large hotel melia chain see world reason stay sure would want night since far outside center madrid close airport 10 minutes friday night guests one suggestion bring need electric must able use v outlets rooms european two round holes suitcase lost asked hotel one desk clerk could help none big mistake international hotel opinion little negatives clock room business room two free internet computers lounge loud piano lounge music food good casual area cozy quiet try formal dining room good taxis outside free bus airport every hour",
+          "Date":"April 20, 2008"
+       },
+       {
+          "Ratings":{
+             "Overall":"3.0"
+          },
+          "AuthorLocation":"Surrey UK",
+          "Title":"\u201cDon't judge by the outside!\u201d",
+          "Author":"Degas",
+          "ReviewID":"UR10790954",
+          "Content":"usually hate airport hotels theres nothing around however melia fairly extensive neighborhood around lots little bars restaurants went barajas 5 good airport bus convenient fast two times used call 34 700 tell youve arrived checkin process little got room service pretty good theres much minibar theres room fridge things bed comfortable one big body pillow pain sometimes wired ethernet borrow cable one better airport hotels metro nearby transportation airport easy youll enjoy",
+          "Date":"November 13, 2007"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Business service (e.g., internet access)":"5",
+             "Check in / front desk":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"Grand Rapids, Michigan",
+          "Title":"\u201cGreat Hotel near the Airport. Free Shuttle to Airport\u201d",
+          "Author":"twah",
+          "ReviewID":"UR10482233",
+          "Content":"stayed upon returning barcelona prior flight home stayed melia puerto enjoyed experience thought would try melia barajas upgraded executive level thought worth room nice decorated manner large nice hotel room united states unusual europe bathroom marble tub shower comfortable king sized bed version heavenly bed quite good even pillow menu could must lucky called hotel upon arrival airport within 5 minutes shuttle pick us never happened travelling experience return trip airport prompt although stop sister hotel tryp pick passengers would recommend hotel anyone",
+          "Date":"October 31, 2007"
+       },
+       {
+          "Ratings":{
+             "Service":"3",
+             "Cleanliness":"4",
+             "Business service (e.g., internet access)":"4",
+             "Check in / front desk":"3",
+             "Overall":"4.0",
+             "Value":"3",
+             "Rooms":"4",
+             "Location":"2"
+          },
+          "AuthorLocation":"Barcelona, Catalunya/Catalonia (Spain)",
+          "Title":"\u201cHuge and nice room close to the airport a little bit far from Madrid\u201d",
+          "Author":"jmfh",
+          "ReviewID":"UR7868948",
+          "Content":"work didnt need go madrid close hotel avoid big traffic jams order enter madrid morning leaving madrid evenings hotel functional means special appeal go find subway station 10 minutes get madrid room nice well decorated facilities expect hotel level nice bathroom shower bath tube international free tv channels free internet breakfast ok even great choices didn\u2019t meal staff correct",
+          "Date":"June 17, 2007"
+       },
+       {
+          "Ratings":{
+             "Service":"2",
+             "Cleanliness":"3",
+             "Business service (e.g., internet access)":"2",
+             "Check in / front desk":"1",
+             "Overall":"2.0",
+             "Value":"2",
+             "Rooms":"3",
+             "Location":"1"
+          },
+          "AuthorLocation":"London",
+          "Title":"\u201cRooms were nice but restaurant food was appalling\u201d",
+          "Author":"batgirl13uk",
+          "ReviewID":"UR7643127",
+          "Content":"stuck madrid missing connecting flight put night rooms fine dinner awful main courses salad except fresh pastries sort cheap cakes find old stale breakfast nicer fresh fruit fresh though would pay stay eat",
+          "Date":"May 19, 2007"
+       },
+       {
+          "Ratings":{
+             "Service":"5",
+             "Cleanliness":"5",
+             "Check in / front desk":"5",
+             "Overall":"5.0",
+             "Value":"5",
+             "Rooms":"5",
+             "Location":"5"
+          },
+          "AuthorLocation":"seattle",
+          "Title":"\u201cExcellent Airport Hotel\u201d",
+          "Author":"oyabe",
+          "ReviewID":"UR7417386",
+          "Content":"thanks site recommended place right high quality hotel excellent checkin reception efficient professional staff speaks good english long day joy walk beautiful room 1st enter theres whole separate area store luggage walk actual room notice spacious separate table sitting area etc bathroom gorgeous separate shower bath huge fluffy thick towels towel warmer marble etc immaculately clean definite pluses free internet lobby area 24 hour free shuttle airport 5 minutes away taken next morning airport shuttle right time hotel may bit airport hotels definitely worth price euros save time stress stay need good airport hotel also thanks person recommended site nearby restaurant called 3 blocks away like reasonable prices good food menu english chocolate dessert 1 block east 2 blocks north",
+          "Date":"April 23, 2007"
+       },
+       {
+          "Ratings":{
+             "Overall":"4.0"
+          },
+          "AuthorLocation":"Buenos Aires",
+          "Title":"\u201cSpacious room and bathroom\u201d",
+          "Author":"travelerbar",
+          "ReviewID":"UR6348702",
+          "Content":"hotel clean friendly efficient modern nice room services would expect airport location dinner dining room selected buffet would say one best meals ive ever airport hotel seen lavish big city resort hotels higher quality better tasting food salmon best salmon remember eating ever",
+          "Date":"December 8, 2006"
+       },
+       {
+          "Ratings":{
+             "Overall":"5.0"
+          },
+          "AuthorLocation":"Chino Hills Ca",
+          "Title":"\u201cExcellnet hotel\u201d",
+          "Author":"melofun",
+          "ReviewID":"UR4964636",
+          "Content":"night madrid following appalling service iberia airlines put hotel gran melia barajas enjoyed hotel clean tidy attractive inside rooms nice style clean well equipped get hot room touch aircon service ok \u2013 expect city hotel hotel nice although slightly much cheaper across road hotel don\u2019t choose menu dinner it\u2019s good found food cold breakfast ok \u2013 pretty standard city hotel pool dirty gardens full careful always wear shoes",
+          "Date":"April 11, 2006"
+       },
+       {
+          "Ratings":{
+             "Overall":"5.0"
+          },
+          "AuthorLocation":"Los Angeles, CA",
+          "Title":"\u201cLuxurious Airport Hotel\u201d",
+          "Author":"unicorns",
+          "ReviewID":"UR4048533",
+          "Content":"stayed overnight melia barajas returning home vacation found room nicely decorated clean well business hotel",
+          "Date":"October 24, 2005"
+       },
+       {
+          "Ratings":{
+             "Overall":"4.0"
+          },
+          "AuthorLocation":"",
+          "Title":"\u201cA 4-5 star hotel indeed!\u201d",
+          "Author":"G_Explorer",
+          "ReviewID":"UR2990080",
+          "Content":"call airport send free shuttle pick hotel quite large rooms spacious bathroom immaculate cheap huge breakfast included fee stay near airport wonderful place may 2005",
+          "Date":"January 8, 2005"
+       }
+    ]
+ }
