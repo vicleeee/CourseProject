@@ -36,6 +36,7 @@ Lara.py
 	This is the main program we implemented all the functions for building this LARA model. 
 	In this program, we implemented function such as update_mu, update_beta, E_step, 
 	M_step etc. 
+	
 Load.py
 This is the python program we have to load our data and build our vocabulary. 
 
@@ -55,4 +56,4 @@ When implementing EM steps, we separate the procedure into two functions, e-step
 **5. Video Link**
 
 Here is the link to the demo video on mediaspace:
-https://mediaspace.illinois.edu/media/1_nuiybt07
+https://mediaspace.illinois.edu/media/t/1_fo2gtfej
